@@ -19,7 +19,9 @@ body {
     right: 0;
     top: 1.875em;
 }
-
+.heading{
+    text-decoration-color: #fff;
+}
 .container {
     padding: 2em 2.5em;
     background-color: gainsboro;
